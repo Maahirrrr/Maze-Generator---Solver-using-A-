@@ -3,8 +3,8 @@ import pygame
 import heapq
 
 # Maze dimensions (Can be adjusted for different sizes)
-WIDTH, HEIGHT = 31, 31  # Must be odd for proper maze generation
-CELL_SIZE = 20  # Size of each cell in pixels
+WIDTH, HEIGHT = 51, 51  # Must be odd for proper maze generation
+CELL_SIZE = 15  # Size of each cell in pixels
 SCREEN_SIZE = (WIDTH * CELL_SIZE, HEIGHT * CELL_SIZE)
 
 # Colors for visualization
