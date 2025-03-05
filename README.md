@@ -143,7 +143,7 @@ Animation speed is controlled using `pygame.time.delay(13)`.
 
 ### Run the Project:
 ```bash
-python maze_solver.py
+python maze.py
 ```
 
 ---
